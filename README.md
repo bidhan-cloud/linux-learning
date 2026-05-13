@@ -23,3 +23,29 @@ I am starting my journey to learn Linux step by step for cloud computing.
 - Practiced:
   - chmod
   - chown
+---
+
+## 📈 My Linux Progress
+
+### File Management
+- mkdir
+- touch
+- cp
+- mv
+- rm
+
+### File Reading & Searching
+- cat
+- grep
+- find
+
+### Permissions
+- chmod
+- chown
+
+### Process Management
+- ps
+- top
+
+### Filtering
+- Pipes (|)
