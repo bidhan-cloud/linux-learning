@@ -66,4 +66,7 @@ What I learned:
 - Every running program is a process
 - Linux allows monitoring CPU and memory usage
 - System administrators use these tools for troubleshooting
+- Lab observation:
+- PID 1 belongs to systemd/init
+- I observed CPU and memory usage in real time using top
 <img width="1536" height="1152" alt="ss1" src="https://github.com/user-attachments/assets/0680f644-438c-4e27-a895-9f63548d9638" />
